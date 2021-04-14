@@ -55,8 +55,6 @@ const DataTable = () => {
 
     return (
         <Container>
-            {/*<button onClick={sortTable}>btn</button>*/}
-            {/*<button onClick={sortTable}>button</button>*/}
             <TableContainer component={Paper}>
                 <Table className={classes.table} aria-label="simple table">
                     <TableHead>
